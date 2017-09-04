@@ -1,7 +1,7 @@
 Hi, my name is Ashley Omoma, welcome to my github! I am a senior at Lehigh University studying Journalism and Africana Studies. I am a visual & multimedia storyteller. 
 
 
-                                                   Class of 2020 Breakdown 
+Class of 2020 Breakdown 
 
 ![Class of 2020](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Welcome%20to%20Lehigh!-2.jpg?raw=true)
 
