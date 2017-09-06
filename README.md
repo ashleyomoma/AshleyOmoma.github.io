@@ -10,3 +10,8 @@ This is an infographic project created on Canva. This infographic shows a breakd
 ![Lehigh Graduate School College Breakdown: MALE & FEMALE ](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Graduate%20Student%20Degree%20Breakdown2.jpg?raw=true)
 
 This infographic shows the ditribution of colleges among graduates students at Lehigh during 2016 by gender.
+
+The Rio 2016 Olympics
+
+<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+                                
