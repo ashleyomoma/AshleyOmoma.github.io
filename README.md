@@ -24,5 +24,5 @@ Insecure Season 1 Episode 1 Timeline
 
 Faculty at Lehigh By Gender
 
-
+![Faculty at Lehigh By Gender](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Lehigh_Faculty_by_Gender_Male_Female_chartbuilder.png?raw=true)
 
