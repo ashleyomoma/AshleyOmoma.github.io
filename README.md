@@ -21,3 +21,8 @@ Insecure Season 1 Episode 1 Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rh73uvybNgE8kEyDyC7SWFbYeJvCXe02uTGYrZStQRQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+
+Faculty at Lehigh By Gender
+
+![Faculty at Lehigh By Gender](file:///Users/aso218/Desktop/Lehigh_Faculty_by_Gender_Male_Female_chartbuilder.png)
+
