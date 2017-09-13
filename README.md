@@ -13,3 +13,9 @@ Faculty at Lehigh By Gender
 
 ![Faculty at Lehigh By Gender](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Lehigh_Faculty_by_Gender_Male_Female_chartbuilder-2.png?raw=true)
 
+
+Immigration Trends to the U.S. From other Countries
+
+![Immigration Trends to the U.S. From other Countries](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Immigration_Trends_to_the_U.S._from_other_Countries_India_Nigera_El_Salvador_chartbuilder.png?raw=true)
+
+
