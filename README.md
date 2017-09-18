@@ -1,6 +1,8 @@
 Hi, my name is Ashley Omoma, welcome to my github! I am a senior at Lehigh University studying Journalism and Africana Studies. I am a visual & multimedia storyteller. 
 
-![Lehigh Graduate School College Breakdown: MALE & FEMALE ](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Graduate%20Student%20Degree%20Breakdown2.jpg?raw=true)
+Lehigh Graduate School College Breakdown: MALE & FEMALE
+
+![Lehigh Graduate School College Breakdown: MALE & FEMALE ](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Graduate%20Student%20Degree%20Breakdown.png?raw=true)
 
 This infographic shows the ditribution of colleges among graduates students at Lehigh during 2016 by gender.
 
