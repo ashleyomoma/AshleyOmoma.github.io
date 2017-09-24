@@ -1,8 +1,10 @@
 Hi, my name is Ashley Omoma, welcome to my github! I am a senior at Lehigh University studying Journalism and Africana Studies. I am a visual & multimedia storyteller. 
 
-Lehigh Graduate School College Breakdown: MALE & FEMALE
+Insecure Televison Show Breakdown
 
-![Lehigh Graduate School College Breakdown: MALE & FEMALE ](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Graduate%20Student%20Degree%20Breakdown.png?raw=true)
+Insecure is a tv show produced by and starring Issa Rae that appears on HBO. The show is an extension and recreation of the youtube show created by Issa Rae, The Misadventures of An Awkard Black Girl, which has garnered millions of views and subscribers since 2011. The show did so well on youtube that Issa started writing for a tv version in 2013 and in 2015, it was picked up by HBO to become what we know and love as Insecure today. Inscure follows protagonists, Issa Rae, her best friend Molly Carter and Issa's boyfriend Lawrence Walker. Insecure has a huge following and has been widely successful since it first launched in 2016. This infographic represents some of the data including ratings and social meida interaction which has become a huge part of the show's culture.
+
+![Insecure Televison Show Breakdown ](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Season%201.png?raw=true)
 
 This infographic shows the ditribution of colleges among graduates students at Lehigh during 2016 by gender.
 
