@@ -8,7 +8,7 @@ Insecure is a tv show produced by and starring Issa Rae that appears on HBO. The
 
 This infographic shows the ditribution of colleges among graduates students at Lehigh during 2016 by gender.
 
-Insecure Season 1 Episode 1 Timeline
+Insecure Season 1 Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=108xBuWdcUVi34QUO9X-KSgNNRvhJObcx6uTpEe7C0fE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
