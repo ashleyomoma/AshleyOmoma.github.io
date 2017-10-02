@@ -29,7 +29,7 @@ Real Locations Seen in Insecure
 
 Insecure features various historic locations all through out Los Angelos, California. These locations include the famous Roscoe's House of Chicken and Waffles and The Dunes apartment complex where rent has actually increased and gone through gentrification during production of the show. These locations breathe life and authenticity into the show where local L.A. viewers easily recognize and relate to. These locations are an important and vital part of the show.
 
-<iframe width="800" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1e2UKGkGP2xWltSG2GgVjqI9VnnjAbsxcJprzCumL&amp;viz=MAP&amp;h=false&amp;lat=34.04216556290114&amp;lng=-118.35362627041013&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="700" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1e2UKGkGP2xWltSG2GgVjqI9VnnjAbsxcJprzCumL&amp;viz=MAP&amp;h=false&amp;lat=34.04216556290114&amp;lng=-118.35362627041013&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 Popular Baby Names in the U.S. Between 1910 and 2010
 
