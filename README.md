@@ -25,19 +25,6 @@ Immigration Trends to the U.S. From other Countries
 ![Immigration Trends to the U.S. From other Countries](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Immigration_Trends_to_the_U.S._from_other_Countries_India_Nigera_El_Salvador_chartbuilder.png?raw=true)
 
 
-
-Map of Art Centers Near Behlehem
-
-<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+12lVBIRLO0jgCXht2TExqAPp-ri0WnXgXyRNmLbFc&amp;viz=MAP&amp;h=false&amp;lat=40.635416419732316&amp;lng=-75.30338624953612&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
-
-
-
-Islands Hit By Hurricane Irma as of Sept. 7
-
-Hurricane Irma was a category 5, category 4 and category 1 Cape Verde type hurricane that lasted from August 30th to September 16. Areas affected by the storm include Cuba, Florida, Puerto Rico, Cape Verde, the Bahamas, Turks and Caicos Islands, Guadeloupe, Saint Martin, U.S. Virgin Islands, Antigua and Barbuda, Greater Antilles and the Leeward Islands. Irma averaged winds as high as 185 mph and killed an estimated 102 people as of September 21. The damaged done by the hurricane has totaled roughly more than $62.87 billion. This visualization shows some of the Islands that were devastated by the hurricane. 
-
-<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+12cpDelvaxsgK2uMkJ7mjJd45ZnByMnFOlAZ8cuCj&amp;viz=MAP&amp;h=false&amp;lat=20.12400956519998&amp;lng=-62.65465014375002&amp;t=1&amp;z=6&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
-
 Real Locations Seen in Insecure
 
 Insecure features various historic locations all through out Los Angelos, California. These locations include the famous Roscoe's House of Chicken and Waffles and The Dunes apartment complex where rent has actually increased and gone through gentrification during production of the show. These locations breathe life and authenticity into the show where local L.A. viewers easily recognize and relate to. These locations are an important and vital part of the show.
