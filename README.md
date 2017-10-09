@@ -19,11 +19,11 @@ Insecure and Viewers
 
 Changes in Audience Attitude towards Characters after Each Episode Season 1
 
-![Changes in Audience Attitude towards Characters after Each Episode Season 1(https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Changes_in_Audience_Attitude_towards_Characters_after_Each_Episode_Season_1__Issa___Molly__Lawrence__chartbuilder.png?raw=true)
+![Changes in Audience Attitude towards Characters after Each Episode Season 1](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Changes_in_Audience_Attitude_towards_Characters_after_Each_Episode_Season_1__Issa___Molly__Lawrence__chartbuilder.png?raw=true)
 
 Changes in Audience Attitude towards Characters after Each Episode Season 2
 
-![Changes in Audience Attitude towards Characters after Each Episode Season 2(https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Changes_in_Audience_Attitude_towards_Characters_after_Each_Episode_Season_2__Issa___Molly__Lawrence__chartbuilder.png?raw=true)
+![Changes in Audience Attitude towards Characters after Each Episode Season 2](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Changes_in_Audience_Attitude_towards_Characters_after_Each_Episode_Season_2__Issa___Molly__Lawrence__chartbuilder.png?raw=true)
 
 Immigration Trends to the U.S. From other Countries
 
