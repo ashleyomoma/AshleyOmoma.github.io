@@ -12,11 +12,15 @@ Insecure Season 1 Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=108xBuWdcUVi34QUO9X-KSgNNRvhJObcx6uTpEe7C0fE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+Insecure and Viewers
 
-Faculty at Lehigh By Gender
+Changes in Audience Attitude towards Characters after Each Episode Season 1
 
-![Faculty at Lehigh By Gender](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Lehigh_Faculty_by_Gender_Male_Female_chartbuilder-2.png?raw=true)
+https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Changes_in_Audience_Attitude_towards_Characters_after_Each_Episode_Season_1__Issa___Molly__Lawrence__chartbuilder.png?raw=true
 
+Changes in Audience Attitude towards Characters after Each Episode Season 2
+
+https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Changes_in_Audience_Attitude_towards_Characters_after_Each_Episode_Season_2__Issa___Molly__Lawrence__chartbuilder.png?raw=true
 
 Immigration Trends to the U.S. From other Countries
 
