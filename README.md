@@ -1,4 +1,4 @@
-<iframe src="//www.pixton.com/embed/ku3g6b0a" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
+![pixton](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Screen%20Shot%202017-10-09%20at%2010.10.55%20PM.png?raw=true)
 
 Hi, my name is Ashley Omoma, welcome to my github! I am a senior at Lehigh University studying Journalism and Africana Studies. I am a visual & multimedia storyteller. 
 
