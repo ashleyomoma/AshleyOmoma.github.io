@@ -1,6 +1,6 @@
 ![pixton](https://github.com/ashleyomoma/AshleyOmoma.github.io/blob/master/Screen%20Shot%202017-10-09%20at%2010.10.55%20PM.png?raw=true)
 
-##Hi, my name is **Ashley Omoma**, welcome to my github! I am a senior at Lehigh University studying Journalism and Africana Studies. I am a visual & multimedia storyteller. 
+##Hi, my name is **Ashley Omoma**, welcome to my github! I am a senior at Lehigh University studying Journalism and Africana Studies. I am a visual & multimedia storyteller.## 
 
 **Insecure Televison Show Breakdown**
 
