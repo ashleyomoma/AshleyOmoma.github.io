@@ -12,6 +12,8 @@ Insecure is a tv show produced by and starring Issa Rae that appears on HBO. The
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=108xBuWdcUVi34QUO9X-KSgNNRvhJObcx6uTpEe7C0fE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=108xBuWdcUVi34QUO9X-KSgNNRvhJObcx6uTpEe7C0fE&font=Default&lang=en&initial_zoom=2&height=850' width='100%' height='850' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 **Insecure and Viewers**
 
 The audience of any show is imperative to its ratings and success. Insecure proves just how much it knows this with it's interactive online presence after each show. Because each episode is filled with drama and plot twists, the characters tend to leave varying impressions on the audience at the end of each episode which is discussed widely online. This visualization shows audience Attitudes towards characters after each episode for seasons 1 and 2. The scores were taken primarily from conversations held on the show's official youtube show where the actors talk weekly about the characters from each episode. Rated on a scale from 1 to 5, 1 being the worst and 5 the best, the graphic shows the changes in audience attitude for each character per episode.  
